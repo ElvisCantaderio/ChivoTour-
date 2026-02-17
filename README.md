@@ -1,6 +1,6 @@
-# 🌋 ChivoTour - Explora El Salvador
+# 🌋 ChivoTour
 
-**ChivoTour** es una aplicación multiplataforma diseñada para ayudar a turistas y locales a descubrir la riqueza turística de El Salvador. Desde playas de clase mundial hasta rutas de montaña y pueblos coloniales, la app centraliza la información necesaria para planificar tu próxima aventura.
+Es una aplicación multiplataforma diseñada para ayudar a turistas y locales a descubrir la riqueza turística de El Salvador. Desde playas de clase mundial hasta rutas de montaña y pueblos coloniales, la app centraliza la información necesaria para planificar tu próxima aventura.
 ---
 
 ## 🚀 Tecnologías Principales
