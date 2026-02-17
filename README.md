@@ -1,43 +1,42 @@
-# ChivoTourApp (chivotour)
-La aplicacion se ha configurado para usar NodeJs en su version 18.15.0
-La app de cordova usa android 11.0.0 y agrega el plugin geolocation
+# 🌋 ChivoTour - Explora El Salvador
 
-A Quasar Project
+**ChivoTour** es una aplicación multiplataforma diseñada para ayudar a turistas y locales a descubrir la riqueza turística de El Salvador. Desde playas de clase mundial hasta rutas de montaña y pueblos coloniales, la app centraliza la información necesaria para planificar tu próxima aventura.
+---
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+## 🚀 Tecnologías Principales
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+El proyecto utiliza un stack moderno enfocado en el rendimiento y la escalabilidad:
 
+*   **Framework:** [Quasar Framework](https://quasar.dev) (basado en **Vue.js 3**)
+*   **Plataformas:** Web Progresiva (PWA), Android e iOS (vía **Capacitor/Cordova**)
+*   **Estilos:** Sass y componentes Material Design.
+*   **Gestión de Estado:** [Pinia](https://pinia.vuejs.org) (o Vuex, según uses).
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+## ✨ Características (Features)
 
+*   **Búsqueda Avanzada:** Filtros por categoría (playas, volcanes, pueblos, lagos).
+*   **Geolocalización:** Visualización de sitios turísticos cercanos al usuario.
+*   **Modo Offline:** Preparada para funcionar en zonas con baja conectividad.
+*   **Diseño Adaptive:** Interfaz optimizada tanto para escritorio como para dispositivos móviles.
 
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
+## 🛠️ Instalación y Configuración
 
+Si deseas ejecutar este proyecto localmente, sigue estos pasos:
 
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/ElvisCantaderio/ChivoTour-.git
+   cd chivotour
+   
+2. **Instalar dependecias**
+   `npm install`
 
-### Build the app for production
-```bash
-quasar build
-```
+3. **Iniciar en modo desarrollo web**
+   `quasar dev`
+
+4. **Copilar para produccion**
+   `quasar build`
+
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
